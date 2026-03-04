@@ -31,7 +31,7 @@ A powerful, cross-platform Quiz Management System built with **Laravel 12**, **L
 ## 🚀 Installation & Setup
 
 ### 1. Clone the repository
-```bash
+
 git clone [https://github.com/Nvd063/LaraQuiz-Native.git]
 cd LaraQuiz-Native
 2. Install DependenciesBashcomposer install
@@ -47,4 +47,5 @@ Scan the generated QR code with the Bifrost app on your phone.🔒 Credentials (
 RoleEmailPassword: Teacherteacher@quiz.com/12345678
 Student:  ahmad@gmail.com/12345678
 
-<img width="1920" height="1543" alt="image" src="https://github.com/user-attachments/assets/60e2b2b2-efb1-4d4c-b07d-935e71e2fb0d" />
+
+<img width="1920" height="1543" alt="image" src="https://github.com/user-attachments/assets/3d5a2ade-e613-44d4-ac98-3ffc4736408d" />
